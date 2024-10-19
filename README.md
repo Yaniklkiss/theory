@@ -1,4 +1,8 @@
 # Теория тестирования
-Задание 2. [Определение методов, типов и уровней тестирования для приложения интернет-магазин.](https://docs.google.com/spreadsheets/d/1yX4PhM4Osz882TlTpcn_IWk_ZmzqEPEjGRlyWpMLhQs/edit?usp=sharing)
 
-Задание 3. [Анализ требований и макета для приложения интернет-магазин.](https://docs.google.com/spreadsheets/d/1vFXXTUDMZRiFhp73OehOflZaoCxW5inNaK6UohoEwOc/edit?usp=sharing)
+ В веб-приложении интернет-магазина электроники ***** необходимо определить методы, типы и уровни для тестирования, а также проанализировать доступные требования, найти их несоответствия.
+Веб-приложение позволяет пользователям регистрироваться, авторизоваться, изучать каталог, добавлять товары в корзину, формировать заказы и оплачивать их.
+
+[Определение методов, типов и уровней тестирования для приложения интернет-магазин.](https://docs.google.com/spreadsheets/d/1yX4PhM4Osz882TlTpcn_IWk_ZmzqEPEjGRlyWpMLhQs/edit?usp=sharing)
+
+[Анализ требований и макета для приложения интернет-магазин.](https://docs.google.com/spreadsheets/d/1vFXXTUDMZRiFhp73OehOflZaoCxW5inNaK6UohoEwOc/edit?usp=sharing)
